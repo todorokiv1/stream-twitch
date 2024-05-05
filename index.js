@@ -27,7 +27,7 @@ client.on('ready', async () => {
       current: 1111,
       id: Discord.getUUID(),
     })
-    .setAssetsLargeImage('https://media.discordapp.net/attachments/1108081101328629823/1236763975769784390/anime-anime-girl-sleep.gif?ex=663931b5&is=6637e035&hm=d6543ee0dfbcac2a51cb9a9f7a96e32bb96b186506956ae768c33c0c647decd2&')
+    .setAssetsLargeImage('https://media.discordapp.net/attachments/1108081101328629823/1236764044174561381/image0.gif?ex=663931c6&is=6637e046&hm=7c8b64867caebf7f68473a2cf0134523716bef2f8207fc6aff770b1ff1bf5ff6&')
     .setAssetsLargeText(`𝐃𝐄𝐀𝐃`)
     .setAssetsSmallImage(`https://media.discordapp.net/attachments/1108081101328629823/1236764044174561381/image0.gif?ex=663931c6&is=6637e046&hm=7c8b64867caebf7f68473a2cf0134523716bef2f8207fc6aff770b1ff1bf5ff6&`)
     .setAssetsSmallText(`decay`)
