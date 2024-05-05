@@ -18,7 +18,7 @@ client.on('ready', async () => {
   const rpc = new Discord.RichPresence()
     .setApplicationId("1043168841326403594")
     .setType('STREAMING')
-    .setURL(`https://www.youtube.com/watch?v=5O80f_ZdXtQ`)
+    .setURL(`https://m.twitch.tv/nexxuz`)
     .setDetails(`𝐁𝐄𝐃 𝐓𝐈𝐌𝐄`)
     .setName(`𝐓𝐎𝐃𝐎𝐑𝐎𝐊𝐈`)
     .setState(`𝐃𝐫𝐞𝐚𝐦 𝐖𝐨𝐫𝐥𝐝......`)
@@ -32,7 +32,7 @@ client.on('ready', async () => {
     .setAssetsSmallImage(`https://media.discordapp.net/attachments/1108081101328629823/1236764044174561381/image0.gif?ex=663931c6&is=6637e046&hm=7c8b64867caebf7f68473a2cf0134523716bef2f8207fc6aff770b1ff1bf5ff6&`)
     .setAssetsSmallText(`decay`)
     .addButton(`すべてマイクな`, `https://youtu.be/zYNhoj-3H8E?si=V5P8IU9mJoIm8Uku`)
-    .addButton(`すべてマイク`, `https://youtu.be/hH8jxbaSdQk`);
+    .addButton(`すべてマイク`, `https://m.twitch.tv/nexxuz`);
   client.user.setActivity(rpc.toJSON());
 
   console.log(`${client.user.tag} is ready!`);
