@@ -24,7 +24,7 @@ client.on('ready', async () => {
     .setState(`𝐃𝐫𝐞𝐚𝐦 𝐖𝐨𝐫𝐥𝐝......`)
     .setParty({
       max: 5000,
-      current: 1001,
+      current: 1111,
       id: Discord.getUUID(),
     })
     .setAssetsLargeImage('https://media.discordapp.net/attachments/1108081101328629823/1236763975769784390/anime-anime-girl-sleep.gif?ex=663931b5&is=6637e035&hm=d6543ee0dfbcac2a51cb9a9f7a96e32bb96b186506956ae768c33c0c647decd2&')
