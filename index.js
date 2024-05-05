@@ -19,17 +19,17 @@ client.on('ready', async () => {
     .setApplicationId("1043168841326403594")
     .setType('STREAMING')
     .setURL(`https://www.youtube.com/watch?v=HTp5PH8ot6Q&list=RDGMEMHDXYb1_DDSgDsobPsOFxpA&ab_channel=NightLovell`)
-    .setDetails(`𝐓𝐎𝐃𝐎𝐑𝐎𝐊𝐈 𝐅𝐈𝐆𝐇𝐓 𝐃𝐄𝐌𝐎𝐍`)
+    .setDetails(`𝐁𝐄𝐃 𝐓𝐈𝐌𝐄`)
     .setName(`𝐓𝐎𝐃𝐎𝐑𝐎𝐊𝐈`)
-    .setState(`𝐆𝐎 𝐆𝐎 𝐓𝐎𝐃𝐎`)
+    .setState(`𝐃𝐫𝐞𝐚𝐦 𝐖𝐨𝐫𝐥𝐝......`)
     .setParty({
       max: 5000,
       current: 1001,
       id: Discord.getUUID(),
     })
-    .setAssetsLargeImage('https://media.discordapp.net/attachments/1068885516885426257/1158315018639654922/166.gif?ex=651bcc6c&is=651a7aec&hm=4388144e419a7a69b726a753ca08b413033527dbe42766af3d7050d2554686dc&')
+    .setAssetsLargeImage('https://media.discordapp.net/attachments/1108081101328629823/1236763975769784390/anime-anime-girl-sleep.gif?ex=663931b5&is=6637e035&hm=d6543ee0dfbcac2a51cb9a9f7a96e32bb96b186506956ae768c33c0c647decd2&')
     .setAssetsLargeText(`𝐃𝐄𝐀𝐃`)
-    .setAssetsSmallImage(`https://media.discordapp.net/attachments/1068885516885426257/1158315174441267252/tumblr_mtzurjX6gR1scepo2o1_500.gif?ex=651bcc92&is=651a7b12&hm=a4f1dc87267693e8265bae6046915106bf565b3bbcbb398e6b92c46ab9d1477e&`)
+    .setAssetsSmallImage(`https://media.discordapp.net/attachments/1108081101328629823/1236764044174561381/image0.gif?ex=663931c6&is=6637e046&hm=7c8b64867caebf7f68473a2cf0134523716bef2f8207fc6aff770b1ff1bf5ff6&`)
     .setAssetsSmallText(`decay`)
     .addButton(`すべてマイクな`, `https://youtu.be/zYNhoj-3H8E?si=V5P8IU9mJoIm8Uku`)
     .addButton(`すべてマイク`, `https://youtu.be/hH8jxbaSdQk`);
