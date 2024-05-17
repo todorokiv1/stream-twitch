@@ -17,7 +17,7 @@ client.on('ready', async () => {
 
   const rpc = new Discord.RichPresence()
     .setApplicationId("1043168841326403594")
-    .setType('PLAYING')
+    .setType('STREAMING')
     .setURL(`https://www.youtube.com/watch?v=HTp5PH8ot6Q&list=RDGMEMHDXYb1_DDSgDsobPsOFxpA&ab_channel=NightLovell`)
     .setDetails(`𝐁𝐄𝐃 𝐓𝐈𝐌𝐄`)
     .setName(`𝐓𝐎𝐃𝐎𝐑𝐎𝐊𝐈`)
