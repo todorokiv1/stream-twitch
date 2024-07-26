@@ -16,7 +16,7 @@ const client = new Discord.Client({
 client.on('ready', async () => {
 
   const rpc = new Discord.RichPresence()
-    .setApplicationId("1043168841326403594")
+    .setApplicationId("1163407556916543508")
     .setType('STREAMING')
     .setURL(`https://www.youtube.com/watch?v=HTp5PH8ot6Q&list=RDGMEMHDXYb1_DDSgDsobPsOFxpA&ab_channel=NightLovell`)
     .setDetails(`𝐁𝐄𝐃 𝐓𝐈𝐌𝐄`)
